@@ -1,0 +1,12 @@
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/bin/Debug/netcoreapp2.2/sampleInfrastructure.deps.json
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/bin/Debug/netcoreapp2.2/sampleInfrastructure.dll
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/bin/Debug/netcoreapp2.2/sampleInfrastructure.pdb
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/bin/Debug/netcoreapp2.2/functional.dll
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/bin/Debug/netcoreapp2.2/functional.pdb
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/obj/Debug/netcoreapp2.2/sampleInfrastructure.csprojAssemblyReference.cache
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/obj/Debug/netcoreapp2.2/sampleInfrastructure.csproj.CoreCompileInputs.cache
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/obj/Debug/netcoreapp2.2/sampleInfrastructure.AssemblyInfoInputs.cache
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/obj/Debug/netcoreapp2.2/sampleInfrastructure.AssemblyInfo.cs
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/obj/Debug/netcoreapp2.2/sampleInfrastructure.csproj.CopyComplete
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/obj/Debug/netcoreapp2.2/sampleInfrastructure.dll
+/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/obj/Debug/netcoreapp2.2/sampleInfrastructure.pdb
