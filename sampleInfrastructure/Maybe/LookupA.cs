@@ -1,7 +1,6 @@
-﻿using functional;
-using functional.Maybe;
+﻿using functional.Maybe;
 
-namespace sampleInfrastructure
+namespace sampleInfrastructure.Maybe
 {
     public static class LookupA
     {

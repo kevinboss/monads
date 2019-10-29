@@ -8,5 +8,10 @@ namespace sampleInfrastructure
         {
             Console.WriteLine(text);
         }
+
+        public static void Log(Exception exception)
+        {
+            Console.WriteLine(exception.ToString());
+        }
     }
 }

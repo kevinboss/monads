@@ -1,26 +1,26 @@
 using System;
 using functional.Result;
 
-namespace sampleInfrastructure
+namespace sampleInfrastructure.Result
 {
     public class LoginConnectionFactory
     {
-        public LoginConnection CreateSuccessful()
+        public static LoginConnection CreateSuccessful()
         {
             return new LoginConnection();
         }
         
-        public LoginConnection CreateFailure()
+        public static LoginConnection CreateFailure()
         {
-            throw new Exception();
+            return null;
         }
 
-        public Result<LoginConnection> LoginSuccessfulResult(string username, string password)
+        public static  Result<LoginConnection> CreateSuccessfulResult()
         {
             return Result<LoginConnection>.Success(new LoginConnection());
         }
 
-        public Result<LoginConnection> LoginFailureResult(string username, string password)
+        public static  Result<LoginConnection> CreateFailureResult()
         {
             return Result<LoginConnection>.Fail("Unbehandelter Fehler");
         }

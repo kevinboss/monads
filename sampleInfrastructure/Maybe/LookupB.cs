@@ -1,6 +1,6 @@
 ﻿using functional.Maybe;
 
-namespace sampleInfrastructure
+namespace sampleInfrastructure.Maybe
 {
     public static class LookupB
     {

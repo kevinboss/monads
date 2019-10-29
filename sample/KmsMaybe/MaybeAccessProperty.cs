@@ -2,6 +2,7 @@ using System.Linq;
 using kms;
 using NUnit.Framework;
 using sampleInfrastructure;
+using sampleInfrastructure.Maybe;
 
 namespace sample.KmsMaybe
 {

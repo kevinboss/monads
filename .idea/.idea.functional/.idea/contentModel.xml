@@ -60,16 +60,22 @@
             </e>
           </e>
         </e>
+        <e p="Result" t="Include">
+          <e p="ResultLoginLoad.cs" t="Include" />
+        </e>
         <e p="sample.csproj" t="IncludeRecursive" />
       </e>
       <e p="sampleInfrastructure" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="DataConnection.cs" t="Include" />
         <e p="Logger.cs" t="Include" />
-        <e p="LoginConnection.cs" t="Include" />
-        <e p="LoginConnectionFactory.cs" t="Include" />
-        <e p="LookupA.cs" t="Include" />
-        <e p="LookupB.cs" t="Include" />
+        <e p="Maybe" t="Include">
+          <e p="LookupA.cs" t="Include" />
+          <e p="LookupB.cs" t="Include" />
+          <e p="RepositoryA.cs" t="Include" />
+          <e p="RepositoryB.cs" t="Include" />
+          <e p="SampleDataA.cs" t="Include" />
+          <e p="SampleDataB.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -77,10 +83,11 @@
             </e>
           </e>
         </e>
-        <e p="RepositoryA.cs" t="Include" />
-        <e p="RepositoryB.cs" t="Include" />
-        <e p="SampleDataA.cs" t="Include" />
-        <e p="SampleDataB.cs" t="Include" />
+        <e p="Result" t="Include">
+          <e p="DataConnection.cs" t="Include" />
+          <e p="LoginConnection.cs" t="Include" />
+          <e p="LoginConnectionFactory.cs" t="Include" />
+        </e>
         <e p="sampleInfrastructure.csproj" t="IncludeRecursive" />
       </e>
       <e p="samples" t="Include" />

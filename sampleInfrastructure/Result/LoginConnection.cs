@@ -1,7 +1,7 @@
 using System;
 using functional.Result;
 
-namespace sampleInfrastructure
+namespace sampleInfrastructure.Result
 {
     public class LoginConnection
     {
@@ -12,7 +12,7 @@ namespace sampleInfrastructure
 
         public DataConnection LoginFailure(string username, string password)
         {
-            throw new Exception();
+            return null;
         }
 
         public Result<DataConnection> LoginSuccessfulResult(string username, string password)

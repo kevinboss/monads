@@ -1,6 +1,7 @@
 using functional.Maybe;
 using NUnit.Framework;
 using sampleInfrastructure;
+using sampleInfrastructure.Maybe;
 
 namespace sample.Maybe
 {

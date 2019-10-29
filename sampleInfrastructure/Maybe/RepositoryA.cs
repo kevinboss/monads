@@ -1,6 +1,6 @@
 using System;
 
-namespace sampleInfrastructure
+namespace sampleInfrastructure.Maybe
 {
     public static class RepositoryA
     {

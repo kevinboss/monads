@@ -1,7 +1,7 @@
 using System;
 using functional.Result;
 
-namespace sampleInfrastructure
+namespace sampleInfrastructure.Result
 {
     public class DataConnection
     {
@@ -12,15 +12,15 @@ namespace sampleInfrastructure
 
         public string GetDataFailure()
         {
-            throw new Exception();
+            return null;
         }
 
-        public Result<string> LoginSuccessfulResult()
+        public Result<string> GetDataSuccessfulResult()
         {
             return Result<string>.Success("Hello World");
         }
 
-        public Result<string> LoginFailureResult()
+        public Result<string> GetDataFailureResult()
         {
             return Result<string>.Fail("Unbehandelter Fehler");
         }

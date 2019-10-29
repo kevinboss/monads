@@ -1,6 +1,6 @@
-namespace sampleInfrastructure
+namespace sampleInfrastructure.Maybe
 {
-    public class SampleDataB
+    public class SampleDataA
     {
         public string SomeContent { get; set; } = nameof(SomeContent);
     }
