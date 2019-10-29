@@ -4,7 +4,7 @@
     ".NETCoreApp,Version=v3.0": {
       "functional/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v3.0",
         "compile": {
           "bin/placeholder/functional.dll": {}
         },
@@ -43,23 +43,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/kevinboss/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\kevin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevinboss/Documents/Repositories/monads/sampleInfrastructure/sampleInfrastructure.csproj",
+      "projectUniqueName": "C:\\Repos\\monads\\sampleInfrastructure\\sampleInfrastructure.csproj",
       "projectName": "sampleInfrastructure",
-      "projectPath": "/Users/kevinboss/Documents/Repositories/monads/sampleInfrastructure/sampleInfrastructure.csproj",
-      "packagesPath": "/Users/kevinboss/.nuget/packages/",
-      "outputPath": "/Users/kevinboss/Documents/Repositories/monads/sampleInfrastructure/obj/",
+      "projectPath": "C:\\Repos\\monads\\sampleInfrastructure\\sampleInfrastructure.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\monads\\sampleInfrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/kevinboss/.config/NuGet/NuGet.Config"
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -70,11 +70,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/kevinboss/Documents/Repositories/monads/functional/functional.csproj": {
-              "projectPath": "/Users/kevinboss/Documents/Repositories/monads/functional/functional.csproj"
+            "C:\\Repos\\monads\\functional\\functional.csproj": {
+              "projectPath": "C:\\Repos\\monads\\functional\\functional.csproj"
             },
-            "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj": {
-              "projectPath": "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj"
+            "C:\\Repos\\monads\\kms\\kms.csproj": {
+              "projectPath": "C:\\Repos\\monads\\kms\\kms.csproj"
             }
           }
         }

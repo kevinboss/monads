@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj",
+    "projectUniqueName": "C:\\Repos\\monads\\kms\\kms.csproj",
     "projectName": "kms",
-    "projectPath": "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj",
-    "outputPath": "/Users/kevinboss/Documents/Repositories/monads/kms/obj/",
+    "projectPath": "C:\\Repos\\monads\\kms\\kms.csproj",
+    "outputPath": "C:\\Repos\\monads\\kms\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp3.0"

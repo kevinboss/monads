@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/Users/kevinboss/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\kevin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj",
+      "projectUniqueName": "C:\\Repos\\monads\\kms\\kms.csproj",
       "projectName": "kms",
-      "projectPath": "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj",
-      "packagesPath": "/Users/kevinboss/.nuget/packages/",
-      "outputPath": "/Users/kevinboss/Documents/Repositories/monads/kms/obj/",
+      "projectPath": "C:\\Repos\\monads\\kms\\kms.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\monads\\kms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/kevinboss/.config/NuGet/NuGet.Config"
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"

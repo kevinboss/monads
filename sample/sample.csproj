@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.0</TargetFramework>
@@ -17,10 +17,6 @@
     <ItemGroup>
       <ProjectReference Include="..\kms\kms.csproj" />
       <ProjectReference Include="..\sampleInfrastructure\sampleInfrastructure.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Result" />
     </ItemGroup>
 
 </Project>

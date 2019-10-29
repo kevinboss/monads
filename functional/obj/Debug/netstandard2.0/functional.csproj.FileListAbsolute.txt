@@ -1,9 +1,0 @@
-/Users/kevinboss/Documents/Repositories/functional/functional/bin/Debug/netstandard2.0/functional.deps.json
-/Users/kevinboss/Documents/Repositories/functional/functional/bin/Debug/netstandard2.0/functional.dll
-/Users/kevinboss/Documents/Repositories/functional/functional/bin/Debug/netstandard2.0/functional.pdb
-/Users/kevinboss/Documents/Repositories/functional/functional/obj/Debug/netstandard2.0/functional.csprojAssemblyReference.cache
-/Users/kevinboss/Documents/Repositories/functional/functional/obj/Debug/netstandard2.0/functional.csproj.CoreCompileInputs.cache
-/Users/kevinboss/Documents/Repositories/functional/functional/obj/Debug/netstandard2.0/functional.AssemblyInfoInputs.cache
-/Users/kevinboss/Documents/Repositories/functional/functional/obj/Debug/netstandard2.0/functional.AssemblyInfo.cs
-/Users/kevinboss/Documents/Repositories/functional/functional/obj/Debug/netstandard2.0/functional.dll
-/Users/kevinboss/Documents/Repositories/functional/functional/obj/Debug/netstandard2.0/functional.pdb

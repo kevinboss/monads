@@ -1,39 +1,39 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {}
+    ".NETCoreApp,Version=v3.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": []
+    ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/Users/kevinboss/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\kevin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevinboss/Documents/Repositories/monads/functional/functional.csproj",
+      "projectUniqueName": "C:\\Repos\\monads\\functional\\functional.csproj",
       "projectName": "functional",
-      "projectPath": "/Users/kevinboss/Documents/Repositories/monads/functional/functional.csproj",
-      "packagesPath": "/Users/kevinboss/.nuget/packages/",
-      "outputPath": "/Users/kevinboss/Documents/Repositories/monads/functional/obj/",
+      "projectPath": "C:\\Repos\\monads\\functional\\functional.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\monads\\functional\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/kevinboss/.config/NuGet/NuGet.Config"
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netstandard2.1"
+        "netcoreapp3.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netstandard2.1": {
+        "netcoreapp3.0": {
           "projectReferences": {}
         }
       },
@@ -44,7 +44,7 @@
       }
     },
     "frameworks": {
-      "netstandard2.1": {
+      "netcoreapp3.0": {
         "imports": [
           "net461",
           "net462",

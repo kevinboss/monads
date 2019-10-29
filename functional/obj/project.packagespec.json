@@ -1,22 +1,22 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/kevinboss/Documents/Repositories/monads/functional/functional.csproj",
+    "projectUniqueName": "C:\\Repos\\monads\\functional\\functional.csproj",
     "projectName": "functional",
-    "projectPath": "/Users/kevinboss/Documents/Repositories/monads/functional/functional.csproj",
-    "outputPath": "/Users/kevinboss/Documents/Repositories/monads/functional/obj/",
+    "projectPath": "C:\\Repos\\monads\\functional\\functional.csproj",
+    "outputPath": "C:\\Repos\\monads\\functional\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netstandard2.1"
+      "netcoreapp3.0"
     ],
     "sources": {
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
-      "netstandard2.1": {
+      "netcoreapp3.0": {
         "projectReferences": {}
       }
     },
@@ -27,7 +27,7 @@
     }
   },
   "frameworks": {
-    "netstandard2.1": {
+    "netcoreapp3.0": {
       "imports": [
         "net461",
         "net462",

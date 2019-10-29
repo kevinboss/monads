@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/kevinboss/Documents/Repositories/monads/sample/sample.csproj",
+    "projectUniqueName": "C:\\Repos\\monads\\sample\\sample.csproj",
     "projectName": "sample",
-    "projectPath": "/Users/kevinboss/Documents/Repositories/monads/sample/sample.csproj",
-    "outputPath": "/Users/kevinboss/Documents/Repositories/monads/sample/obj/",
+    "projectPath": "C:\\Repos\\monads\\sample\\sample.csproj",
+    "outputPath": "C:\\Repos\\monads\\sample\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -18,11 +18,11 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj": {
-            "projectPath": "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj"
+          "C:\\Repos\\monads\\kms\\kms.csproj": {
+            "projectPath": "C:\\Repos\\monads\\kms\\kms.csproj"
           },
-          "/Users/kevinboss/Documents/Repositories/monads/sampleInfrastructure/sampleInfrastructure.csproj": {
-            "projectPath": "/Users/kevinboss/Documents/Repositories/monads/sampleInfrastructure/sampleInfrastructure.csproj"
+          "C:\\Repos\\monads\\sampleInfrastructure\\sampleInfrastructure.csproj": {
+            "projectPath": "C:\\Repos\\monads\\sampleInfrastructure\\sampleInfrastructure.csproj"
           }
         }
       }
