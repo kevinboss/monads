@@ -1,8 +1,8 @@
-using functional;
+using functional.Maybe;
 using NUnit.Framework;
 using sampleInfrastructure;
 
-namespace sample
+namespace sample.Maybe
 {
     public class MaybeAccessProperty
     {

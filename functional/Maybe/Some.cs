@@ -1,6 +1,6 @@
 using System;
 
-namespace functional
+namespace functional.Maybe
 {
     public class Some<TValue> : Maybe<TValue>
     {

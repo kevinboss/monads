@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{1127
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampleInfrastructure", "sampleInfrastructure\sampleInfrastructure.csproj", "{AC6BB711-FD37-407C-B7B6-6D2CEE11B53A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kms", "kms\kms.csproj", "{B708CF18-7955-47F2-8315-4CE12DCED429}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +62,18 @@ Global
 		{AC6BB711-FD37-407C-B7B6-6D2CEE11B53A}.Release|x64.Build.0 = Release|Any CPU
 		{AC6BB711-FD37-407C-B7B6-6D2CEE11B53A}.Release|x86.ActiveCfg = Release|Any CPU
 		{AC6BB711-FD37-407C-B7B6-6D2CEE11B53A}.Release|x86.Build.0 = Release|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Debug|x64.Build.0 = Debug|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Debug|x86.Build.0 = Debug|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Release|x64.ActiveCfg = Release|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Release|x64.Build.0 = Release|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Release|x86.ActiveCfg = Release|Any CPU
+		{B708CF18-7955-47F2-8315-4CE12DCED429}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3AD88488-90AF-4FFB-8B67-95ABEA55D394} = {11273830-E95F-456A-AF09-F48B8767DF83}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/nunit.engine.netstandard.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="functional" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="functional.csproj" t="IncludeRecursive" />
+        <e p="Maybe" t="Include">
+          <e p="Maybe.cs" t="Include" />
+          <e p="None.cs" t="Include" />
+          <e p="Some.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="functional.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Result" t="Include">
+          <e p="Failure.cs" t="Include" />
+          <e p="Result.cs" t="Include" />
+          <e p="Successful.cs" t="Include" />
+        </e>
+      </e>
+      <e p="functional.sln" t="IncludeFlat" />
+      <e p="kms" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="kms.csproj" t="IncludeRecursive" />
+        <e p="Maybe.cs" t="Include" />
+        <e p="MaybeExtensions.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="kms.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="sample" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Enumerable.cs" t="Include" />
+        <e p="KmsMaybe" t="Include">
+          <e p="MaybeAccessProperty.cs" t="Include" />
+          <e p="MaybeChainedLoad.cs" t="Include" />
+          <e p="MaybeLoadPersist.cs" t="Include" />
+        </e>
+        <e p="Maybe" t="Include">
+          <e p="MaybeAccessProperty.cs" t="Include" />
+          <e p="MaybeChainedLoad.cs" t="Include" />
+          <e p="MaybeLoadPersist.cs" t="Include" />
+        </e>
+        <e p="Monad.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="sample.AssemblyInfo.cs" t="Include" />
+              <e p="sample.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Result" t="Include" />
+        <e p="sample.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="sampleInfrastructure" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataConnection.cs" t="Include" />
+        <e p="Logger.cs" t="Include" />
+        <e p="LoginConnection.cs" t="Include" />
+        <e p="LoginConnectionFactory.cs" t="Include" />
+        <e p="LookupA.cs" t="Include" />
+        <e p="LookupB.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="sampleInfrastructure.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RepositoryA.cs" t="Include" />
+        <e p="RepositoryB.cs" t="Include" />
+        <e p="SampleDataA.cs" t="Include" />
+        <e p="SampleDataB.cs" t="Include" />
+        <e p="sampleInfrastructure.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="samples" t="Include" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_functional.-1846223671.00" t="ExcludeRecursive" />
+  </component>
+</project>

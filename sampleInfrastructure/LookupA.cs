@@ -1,4 +1,5 @@
 ﻿using functional;
+using functional.Maybe;
 
 namespace sampleInfrastructure
 {
@@ -12,6 +13,15 @@ namespace sampleInfrastructure
         public static Maybe<SampleDataA> LoadNoneMaybe()
         {
             return Maybe<SampleDataA>.Absent();
+        }
+        public static kms.Maybe<SampleDataA> LoadSomeKmsMaybe()
+        {
+            return new kms.Maybe<SampleDataA>(new SampleDataA());
+        }
+
+        public static kms.Maybe<SampleDataA> LoadNoneKmsMaybe()
+        {
+            return new kms.Maybe<SampleDataA>();
         }
 
         public static SampleDataA LoadSome()

@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using sampleInfrastructure;
 
-namespace sample
+namespace sample.Maybe
 {
     public class MaybeLoadPersist
     {

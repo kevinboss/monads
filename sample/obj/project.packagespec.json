@@ -1,25 +1,28 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/kevinboss/Documents/Repositories/functional/sample/sample.csproj",
+    "projectUniqueName": "/Users/kevinboss/Documents/Repositories/monads/sample/sample.csproj",
     "projectName": "sample",
-    "projectPath": "/Users/kevinboss/Documents/Repositories/functional/sample/sample.csproj",
-    "outputPath": "/Users/kevinboss/Documents/Repositories/functional/sample/obj/",
+    "projectPath": "/Users/kevinboss/Documents/Repositories/monads/sample/sample.csproj",
+    "outputPath": "/Users/kevinboss/Documents/Repositories/monads/sample/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netcoreapp2.2"
+      "netcoreapp3.0"
     ],
     "sources": {
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
-      "netcoreapp2.2": {
+      "netcoreapp3.0": {
         "projectReferences": {
-          "/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/sampleInfrastructure.csproj": {
-            "projectPath": "/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/sampleInfrastructure.csproj"
+          "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj": {
+            "projectPath": "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj"
+          },
+          "/Users/kevinboss/Documents/Repositories/monads/sampleInfrastructure/sampleInfrastructure.csproj": {
+            "projectPath": "/Users/kevinboss/Documents/Repositories/monads/sampleInfrastructure/sampleInfrastructure.csproj"
           }
         }
       }
@@ -31,17 +34,11 @@
     }
   },
   "frameworks": {
-    "netcoreapp2.2": {
+    "netcoreapp3.0": {
       "dependencies": {
         "Microsoft.NET.Test.Sdk": {
           "target": "Package",
           "version": "[15.9.0, )"
-        },
-        "Microsoft.NETCore.App": {
-          "suppressParent": "All",
-          "target": "Package",
-          "version": "[2.2.0, )",
-          "autoReferenced": true
         },
         "NUnit3TestAdapter": {
           "target": "Package",

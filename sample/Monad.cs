@@ -6,7 +6,7 @@ namespace sample
     public class MonadeExample
     {
         [Test]
-        public void Monad()
+        public void Monade()
         {
             Monad<int> Func1(int v1) => v1.Create();
             Monad<int> Func2(int v1) => v1.Create();

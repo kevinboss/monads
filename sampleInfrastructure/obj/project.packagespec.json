@@ -1,25 +1,28 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/sampleInfrastructure.csproj",
+    "projectUniqueName": "/Users/kevinboss/Documents/Repositories/monads/sampleInfrastructure/sampleInfrastructure.csproj",
     "projectName": "sampleInfrastructure",
-    "projectPath": "/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/sampleInfrastructure.csproj",
-    "outputPath": "/Users/kevinboss/Documents/Repositories/functional/sampleInfrastructure/obj/",
+    "projectPath": "/Users/kevinboss/Documents/Repositories/monads/sampleInfrastructure/sampleInfrastructure.csproj",
+    "outputPath": "/Users/kevinboss/Documents/Repositories/monads/sampleInfrastructure/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netcoreapp2.2"
+      "netcoreapp3.0"
     ],
     "sources": {
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
-      "netcoreapp2.2": {
+      "netcoreapp3.0": {
         "projectReferences": {
-          "/Users/kevinboss/Documents/Repositories/functional/functional/functional.csproj": {
-            "projectPath": "/Users/kevinboss/Documents/Repositories/functional/functional/functional.csproj"
+          "/Users/kevinboss/Documents/Repositories/monads/functional/functional.csproj": {
+            "projectPath": "/Users/kevinboss/Documents/Repositories/monads/functional/functional.csproj"
+          },
+          "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj": {
+            "projectPath": "/Users/kevinboss/Documents/Repositories/monads/kms/kms.csproj"
           }
         }
       }
@@ -31,15 +34,7 @@
     }
   },
   "frameworks": {
-    "netcoreapp2.2": {
-      "dependencies": {
-        "Microsoft.NETCore.App": {
-          "suppressParent": "All",
-          "target": "Package",
-          "version": "[2.2.0, )",
-          "autoReferenced": true
-        }
-      },
+    "netcoreapp3.0": {
       "imports": [
         "net461",
         "net462",

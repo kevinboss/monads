@@ -2,7 +2,7 @@ using System;
 using NUnit.Framework;
 using sampleInfrastructure;
 
-namespace sample
+namespace sample.Maybe
 {
     public class MaybeChainedLoad
     {
